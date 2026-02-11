@@ -1,0 +1,28 @@
+p {
+    color: rgb(255, 0, 0);
+    font-size: 18px;
+    text-align: center;
+}
+h1 {
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    background-color: burlywood ;
+}
+u {
+    color: blueviolet;
+} 
+div {
+    background-color: aquamarine;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+} 
+.info{
+    color: blue;
+}
+#Varování{
+    color: black;
+}

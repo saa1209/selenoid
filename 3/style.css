@@ -1,0 +1,35 @@
+.panel {
+    width: 700px;
+    height: 700px;
+    background-color: blue;
+    margin: 200px;
+    border-radius: 100px;
+    border-style: solid;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 2000px;
+    border-top-left-radius: 5000px;
+    border-top-right-radius: 5000px;
+    
+
+}
+.wrap {
+    width: 1000px;
+    height: 800px;
+    background-color: brown;
+}
+.card {
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    margin: 300px;
+    margin-top: 20px;
+    border-bottom-right-radius: 5000px;
+    border-bottom-left-radius: 5000px;
+    border-color: blue;
+    border-style: solid;
+}
+.wrap2 {
+    background-color: aquamarine;
+    height: 500px;
+    
+}
